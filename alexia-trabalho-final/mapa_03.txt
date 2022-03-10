@@ -1,0 +1,15 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxx                        xxxxxxxxFFFFFFFFFFFFFFFFFFFFFFFFxxxxxxxx                    $   x
+xxxxxxx   @    FFFFFFFF   %    xxxxxxxxFF                      xxxxxxxx    #   AAAAAAAA     !  x
+xxxxxxx        xxxxxxxx   A    xxxxxxxxF      AxxxxxxxxF       xxxxxxxx        xxxxxxxx      @ x
+xxxxxxx   !    xxxxxxxx   A    xxxxxxxxA     AAxxxxxxxxF       xxxxxxxx    F   xxxxxxxx     #  x
+xxxxxxx   #    xxxxxxxx   A    xxxxxxxxAA     AxxxxxxxxF       xxxxxxxx    F   xxxxxxxx    !   x
+xxxxxxx   @    xxxxxxxx   A    xxxxxxxxAA     AxxxxxxxxF       xxxxxxxx    F   xxxxxxxx   %    x
+xxxxxxx        xxxxxxxx   $    xxxxxxxxA     AAxxxxxxxxF       xxxxxxxx    F   xxxxxxxx  @     x
+xxxxxxx   !    xxxxxxxx   A    xxxxxxxxA     AAxxxxxxxxF       xxxxxxxx    F   xxxxxxxx !      x
+xxxxxxx   #    xxxxxxxx   A    xxxxxxxxAA     AxxxxxxxxF       xxxxxxxx        xxxxxxxx  @     x
+xxxxxxx   @    xxxxxxxx   A    xxxxxxxxAA     AxxxxxxxxF       xxxxxxxx    #   xxxxxxxx   #    x
+x AAAAA        xxxxxxxx   A    FFFFFFFFA     AAxxxxxxxxF                       xxxxxxxx    !   x
+xOD       J    xxxxxxxx   %      !!!!      T AAxxxxxxxxAAAAAAAAAAAAAAAAAAAAAAAAxxxxxxxx    P   x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
